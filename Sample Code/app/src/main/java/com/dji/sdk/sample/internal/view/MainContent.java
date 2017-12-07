@@ -47,7 +47,7 @@ public class MainContent extends RelativeLayout {
     private Handler mHandler;
     private Handler mHandlerUI;
     private HandlerThread mHandlerThread = new HandlerThread("Bluetooth");
-    private String bridgeAppIp = "10.128.129.76";
+    private String bridgeAppIp = "172.20.184.144";
     private boolean isBridgeModeEnabled = false;
 
     private BaseProduct mProduct;
