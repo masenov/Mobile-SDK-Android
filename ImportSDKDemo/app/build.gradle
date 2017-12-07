@@ -30,4 +30,5 @@ dependencies {
     compile 'com.dji:dji-sdk:4.3.2'
     compile 'com.android.support:support-compat:26.1.0'
     compile 'com.android.support:support-v4:26.1.0'
+    compile 'com.dji:dji-uilibrary:4.3.2'
 }
